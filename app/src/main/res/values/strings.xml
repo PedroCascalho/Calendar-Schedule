@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Calendar Schedules</string>
+    <string name="schedule_calendar">Calendar Schedule</string>
+    <string name="change_theme">change Theme</string>
+</resources>
